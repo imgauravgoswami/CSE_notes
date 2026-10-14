@@ -327,3 +327,15 @@ If the presentation time is short, prioritize the problem, solution, working dem
 Before finalizing, check consistency, spelling, readability, factual accuracy, and whether every slide supports the central message:
 
 "We understood a real user problem, built a practical solution, and can explain why our approach makes sense."
+
+
+
+
+
+git init
+git status
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/USERNAME/REPOSITORY.git
+git push -u origin main
